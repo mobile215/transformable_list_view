@@ -96,9 +96,3 @@ Matrix4 getTransformMatrix(TransformableListItem item) {
 
 You can implement your own callback or check more at `/example` folder.
 
-## Additional information
-
-You can read more about matrix transfomations in Flutter [here](https://medium.com/flutter-community/advanced-flutter-matrix4-and-perspective-transformations-a79404a0d828). Any feedback and PRs are welcome.
-
-Developed by [TBR Group](https://github.com/TBR-Group-software).
-
